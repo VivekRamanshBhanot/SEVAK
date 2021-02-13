@@ -16,22 +16,12 @@ int HEADC()   //Hall Effect Analog To Digit Converter
     Serial.print(HEsense);
     Serial.print(" ");
     if(HEsense<=611 && HEsense>=576)
-    {
         HED=600;
-        return HED;
-    }
     else if(HEsense>=647)
-    {
         HED=650;
-        return HED;
-    }
-   else if(HEsense<=557)
-   {
-       HED=550;
-       return HED;
-   }
-   else
-       return HED;
+    else if(HEsense<=557)
+        HED=550;
+    return HED;
 }
 
 void loop() {
