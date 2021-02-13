@@ -7,4 +7,4 @@ A modified version of this program has been used in the main program. The descre
 
 This file is demonstrating the output of the program.
 
-![Capture](https://github.com/VivekRamanshBhanot/SEVAK/blob/main/image.jpg?raw=true)
+![Capture](https://github.com/VivekRamanshBhanot/SEVAK/blob/main/Capture.JPG?raw=true)
