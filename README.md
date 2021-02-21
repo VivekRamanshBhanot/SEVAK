@@ -17,12 +17,21 @@ The project was developed in a span of 4 months starting from April, 2020 and en
 Various delicate and important parts of the prototype were 3D printed with assistance from Siemens Lab, PEC.
 
 ## Salient Features of SEVAK
-- Live video streaming over Wifi
-- 15 kgs of payload capacity
-- 10 minutes of continuous sanitization
-- 5 hours of full load battery operation
+- **Live video streaming** over Wifi
+- **15 kgs** of payload capacity
+- **10 minutes** of continuous sanitization
+- **5 hours** of full load battery operation
 
 ## Achievements
 - got covered in media 
 - appreciation received from Director, PEC
 - got covered in the magazine of the institute
+
+## Video Resources
+- [SEVAK Final Walkthrough Video](https://drive.google.com/file/d/1RgUBGrUrf2UytCDxVjxR-ZkEBFcMcXMq/view?usp=sharing)
+- [SEVAK Sanitization Video](https://drive.google.com/file/d/1ZDNXjYgPm-4WDcw2uPpul6VcI1vwheKM/view?usp=sharing)
+
+#### Media Coverage
+- [Dainik Jagran SEVAK](https://www.jagran.com/punjab/chandigarh-this-robotic-servant-will-deliver-medicines-and-oxygen-cylinders-to-the-patient-20553265.html)
+
+## Timeline and Description
