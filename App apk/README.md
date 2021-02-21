@@ -7,5 +7,5 @@
 # SEVAK App Screenshot
 
 <p align="center">
-<img height="600" src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/App_Screenshot.jpeg">
+<img height="800" src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/App_Screenshot.jpeg">
 </p>
