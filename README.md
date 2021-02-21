@@ -23,7 +23,7 @@ Various delicate and important parts of the prototype were 3D printed with assis
 #### Features of Camera holder
 completely free rotation in horizontal plane, 60 degree up-down movement in vertical plane, auto recentering along the line of forward movement of the bot
 
-#### Aditional Features
+#### Additional Features
 battery level indication, auto-sleep during charging and flash light navigation in dark or poorly lit environments.
 
 
