@@ -31,17 +31,21 @@ Various delicate and important parts of the prototype were 3D printed with assis
 <p align="center">
   <img src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/line1.PNG" />
 </p>
+
 <p align="center">
   <img src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/line2.PNG" />
 </p>
+
 <p align="center">
   <img src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/line3.PNG" />
 </p>
+
 <p align="center">
   <img src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/line4.PNG" />
 </p>
+
 <p align="center">
-  <img src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/line5.PNG" />
+  <img src="https://github.com/VivekRamanshBhanot/SEVAK/blob/main/gallery/timeline5.PNG" />
 </p>
 
 ## Photo Gallery
